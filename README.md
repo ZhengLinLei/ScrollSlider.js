@@ -21,10 +21,10 @@
 
 <p align="center">
   <a href="https://opensource.org/licenses/Apache-2.0">
-    <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="ScrollSlider License" />
+    <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="ScrollSlider.js License" />
   </a>&nbsp;
   <a>
-    <img src="https://img.shields.io/badge/version-0.3.1-brightgreen" alt="ScrollSlider Version" />
+    <img src="https://img.shields.io/badge/version-0.3.1-brightgreen" alt="ScrollSlider.js Version" />
   </a>
 </p>
 
@@ -86,3 +86,17 @@ const DefaultOptionsScroll = {
     navigation_overflow: "overflow"
 }
 ```
+
+## 5. Methods
+
+```javascript
+slider.mount(); // mount the slider
+```
+
+
+
+### Love this repo? Give us a star ⭐
+
+<a href="./">
+  <img src="https://img.shields.io/badge/ScrollSlider.js-Rate-blue">
+</a>
